@@ -76,9 +76,14 @@
     function closeLightbox() {
       //reset everything, close lightbox
       //debugger;
-      let lightbox = document.querySelector(".lightbox");
+      let lightbox = document.querySelector('.lightbox');
+      let lightboxImg = lightbox.querySelector('img');
+      let lightboxDesc = lightbox.querySelector('p');
+      let lightBoxClose = document.querySelector('.close-lightbox');
       lightbox.style.display = 'none';
       document.body.style.overflow = "scroll";
+      lightboxImg.src = "";
+      lightboxDesc.innerHTML = "";
     }
 
     changeElements.call(document.querySelector('#spring'));

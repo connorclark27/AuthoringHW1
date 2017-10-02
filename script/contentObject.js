@@ -38,7 +38,18 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
-				"autumn_2.jpg"
+				"autumn_2.jpg",
+				"autumn_3.jpg",
+				"autumn_4.jpg",
+				"autumn_5.jpg"
+			],
+
+			imageDescription : [
+				"This is a road.",
+				"These are pumpkins.",
+				"This is a river.",
+				"These are some deer.",
+				"This is a path."
 			]
 		},
 
@@ -50,6 +61,11 @@ var dynamicContent = {
 			images : [
 				"winter_1.jpg",
 				"winter_2.jpg"
+			],
+
+			imageDescription : [
+				"This is a bunch of danguses.",
+				"This is a dangus."
 			]
 		}
 	};
