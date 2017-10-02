@@ -67,3 +67,15 @@ section { margin-top: 15px; background-color: #FFF; }
 	height: 100%;
 	background-color: rgba(0, 0, 0, 0.85);
 }
+
+.close-lightbox {
+	float: right;
+	margin-right: 18px;
+	margin-top: 12px;
+	font-size: 2em;
+	cursor: pointer;
+}
+
+.lightbox-img {
+	display: block;
+}

@@ -7,8 +7,13 @@ var dynamicContent = {
 			images : [
 				"spring_1.jpg",
 				"spring_2.jpg"
-			]
-		},
+			],
+
+		imageDescription : [
+			"This is a bunch of butterflies.",
+			"This is a duck."
+		]
+	},
 
 		summer : {
 			text : "Summer is the warmest of the four temperate seasons, falling between spring and autumn. At the summer solstice, the days are longest and the nights are shortest, with day-length decreasing as the season progresses after the solstice. The date of the beginning of summer varies according to climate, tradition and culture, but when it is summer in the Northern Hemisphere it is winter in the Southern Hemisphere, and vice versa.",
@@ -18,7 +23,12 @@ var dynamicContent = {
 			images : [
 				"summer_1.jpg",
 				"summer_2.jpg"
-			]
+			],
+
+		imageDescription : [
+			"This is a bunch of danguses.",
+			"This is a dangus."
+		]
 		},
 
 		autumn : {
