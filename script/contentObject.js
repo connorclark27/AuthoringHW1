@@ -6,9 +6,22 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-				"spring_2.jpg"
-			]
-		},
+				"spring_2.jpg",
+				"spring_3.jpg",
+				"spring_4.jpg",
+				"spring_5.jpg",
+				"spring_6.jpg"
+			],
+
+		imageDescription : [
+			"This is a bunch of butterflies.",
+			"This is a duck.",
+			"Rain on a window.",
+			"A child jumping in a puddle.",
+			"Blooming flowers.",
+			"A baby lamb."
+		]
+	},
 
 		summer : {
 			text : "Summer is the warmest of the four temperate seasons, falling between spring and autumn. At the summer solstice, the days are longest and the nights are shortest, with day-length decreasing as the season progresses after the solstice. The date of the beginning of summer varies according to climate, tradition and culture, but when it is summer in the Northern Hemisphere it is winter in the Southern Hemisphere, and vice versa.",
@@ -17,8 +30,21 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
-				"summer_2.jpg"
-			]
+				"summer_2.jpg",
+				"summer_3.jpg",
+				"summer_4.jpg",
+				"summer_5.jpg",
+				"summer_6.jpg"
+			],
+
+		imageDescription : [
+			"This is a beach.",
+			"This is a puppy.",
+			"People riding a bike on the beach.",
+			"A volleyball in a pool.",
+			"A dog having a swim.",
+			"Icecream on a hot day."
+		]
 		},
 
 		autumn : {
@@ -28,7 +54,20 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
-				"autumn_2.jpg"
+				"autumn_2.jpg",
+				"autumn_3.jpg",
+				"autumn_4.jpg",
+				"autumn_5.jpg",
+				"autumn_6.jpg"
+			],
+
+			imageDescription : [
+				"This is a road.",
+				"These are pumpkins.",
+				"This is a river.",
+				"These are some deer.",
+				"This is a path.",
+				"This is a lake."
 			]
 		},
 
@@ -39,7 +78,20 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
-				"winter_2.jpg"
+				"winter_2.jpg",
+				"winter_3.jpg",
+				"winter_4.jpg",
+				"winter_5.jpg",
+				"winter_6.jpg"
+			],
+
+			imageDescription : [
+				"This is a forest.",
+				"This is a snowman.",
+				"This is a snowstorm.",
+				"These people are skiing.",
+				"This guy is riding a snowmobile.",
+				"These are snowshoes."
 			]
 		}
 	};
