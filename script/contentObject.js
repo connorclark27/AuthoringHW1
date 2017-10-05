@@ -6,12 +6,20 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-				"spring_2.jpg"
+				"spring_2.jpg",
+				"spring_3.jpg",
+				"spring_4.jpg",
+				"spring_5.jpg",
+				"spring_6.jpg"
 			],
 
 		imageDescription : [
 			"This is a bunch of butterflies.",
-			"This is a duck."
+			"This is a duck.",
+			"Rain on a window.",
+			"A child jumping in a puddle.",
+			"Blooming flowers.",
+			"A baby lamb."
 		]
 	},
 
@@ -22,12 +30,20 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
-				"summer_2.jpg"
+				"summer_2.jpg",
+				"summer_3.jpg",
+				"summer_4.jpg",
+				"summer_5.jpg",
+				"summer_6.jpg"
 			],
 
 		imageDescription : [
-			"This is a bunch of danguses.",
-			"This is a dangus."
+			"This is a beach.",
+			"This is a puppy.",
+			"People riding a bike on the beach.",
+			"A volleyball in a pool.",
+			"A dog having a swim.",
+			"Icecream on a hot day."
 		]
 		},
 
@@ -41,7 +57,8 @@ var dynamicContent = {
 				"autumn_2.jpg",
 				"autumn_3.jpg",
 				"autumn_4.jpg",
-				"autumn_5.jpg"
+				"autumn_5.jpg",
+				"autumn_6.jpg"
 			],
 
 			imageDescription : [
@@ -49,7 +66,8 @@ var dynamicContent = {
 				"These are pumpkins.",
 				"This is a river.",
 				"These are some deer.",
-				"This is a path."
+				"This is a path.",
+				"This is a lake."
 			]
 		},
 
@@ -60,12 +78,20 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
-				"winter_2.jpg"
+				"winter_2.jpg",
+				"winter_3.jpg",
+				"winter_4.jpg",
+				"winter_5.jpg",
+				"winter_6.jpg"
 			],
 
 			imageDescription : [
-				"This is a bunch of danguses.",
-				"This is a dangus."
+				"This is a forest.",
+				"This is a snowman.",
+				"This is a snowstorm.",
+				"These people are skiing.",
+				"This guy is riding a snowmobile.",
+				"These are snowshoes."
 			]
 		}
 	};
